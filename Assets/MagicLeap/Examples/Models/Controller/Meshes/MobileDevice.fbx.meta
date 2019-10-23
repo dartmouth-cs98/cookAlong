@@ -1,243 +1,9 @@
 fileFormatVersion: 2
-guid: 92d6f68d435a7db44b6a5e8cab75fa17
+guid: ab6fc9d1dd8c74d998199544b0508896
 ModelImporter:
-  serializedVersion: 25
-  internalIDToNameTable:
-  - first:
-      1: 100000
-    second: //RootNode
-  - first:
-      1: 100002
-    second: App_Button_Geo
-  - first:
-      1: 100004
-    second: Buttons_Grp
-  - first:
-      1: 100006
-    second: Camera_Button_Geo
-  - first:
-      1: 100008
-    second: Dot_Grid_Geo
-  - first:
-      1: 100010
-    second: Home_Button_Geo
-  - first:
-      1: 100012
-    second: Keyboard_Button_Geo
-  - first:
-      1: 100014
-    second: Move_Button_Geo
-  - first:
-      1: 100016
-    second: Settings_Button_Geo
-  - first:
-      1: 100018
-    second: Bumper_Button
-  - first:
-      1: 100020
-    second: Home_Button
-  - first:
-      1: 100022
-    second: Leaper_Geo
-  - first:
-      1: 100024
-    second: Trigger
-  - first:
-      4: 400000
-    second: //RootNode
-  - first:
-      4: 400002
-    second: App_Button_Geo
-  - first:
-      4: 400004
-    second: Buttons_Grp
-  - first:
-      4: 400006
-    second: Camera_Button_Geo
-  - first:
-      4: 400008
-    second: Dot_Grid_Geo
-  - first:
-      4: 400010
-    second: Home_Button_Geo
-  - first:
-      4: 400012
-    second: Keyboard_Button_Geo
-  - first:
-      4: 400014
-    second: Move_Button_Geo
-  - first:
-      4: 400016
-    second: Settings_Button_Geo
-  - first:
-      4: 400018
-    second: Bumper_Button
-  - first:
-      4: 400020
-    second: Home_Button
-  - first:
-      4: 400022
-    second: Leaper_Geo
-  - first:
-      4: 400024
-    second: Trigger
-  - first:
-      21: 2100000
-    second: MobileDevice_Mat
-  - first:
-      21: 2100002
-    second: Button_MAT
-  - first:
-      21: 2100004
-    second: Dot_Grid_Mat
-  - first:
-      21: 2100006
-    second: MobileDevice_Button_MAT
-  - first:
-      21: 2100008
-    second: MobileDevice_Dot_Grid_Mat
-  - first:
-      21: 2100010
-    second: MobileDevice_leaper_MAT
-  - first:
-      23: 2300000
-    second: //RootNode
-  - first:
-      23: 2300002
-    second: App_Button_Geo
-  - first:
-      23: 2300004
-    second: Camera_Button_Geo
-  - first:
-      23: 2300006
-    second: Dot_Grid_Geo
-  - first:
-      23: 2300008
-    second: Home_Button_Geo
-  - first:
-      23: 2300010
-    second: Keyboard_Button_Geo
-  - first:
-      23: 2300012
-    second: Move_Button_Geo
-  - first:
-      23: 2300014
-    second: Settings_Button_Geo
-  - first:
-      23: 2300016
-    second: Bumper_Button
-  - first:
-      23: 2300018
-    second: Home_Button
-  - first:
-      23: 2300020
-    second: Leaper_Geo
-  - first:
-      23: 2300022
-    second: Trigger
-  - first:
-      33: 3300000
-    second: //RootNode
-  - first:
-      33: 3300002
-    second: App_Button_Geo
-  - first:
-      33: 3300004
-    second: Camera_Button_Geo
-  - first:
-      33: 3300006
-    second: Dot_Grid_Geo
-  - first:
-      33: 3300008
-    second: Home_Button_Geo
-  - first:
-      33: 3300010
-    second: Keyboard_Button_Geo
-  - first:
-      33: 3300012
-    second: Move_Button_Geo
-  - first:
-      33: 3300014
-    second: Settings_Button_Geo
-  - first:
-      33: 3300016
-    second: Bumper_Button
-  - first:
-      33: 3300018
-    second: Home_Button
-  - first:
-      33: 3300020
-    second: Leaper_Geo
-  - first:
-      33: 3300022
-    second: Trigger
-  - first:
-      43: 4300000
-    second: MobileDevice_Geo
-  - first:
-      43: 4300002
-    second: Camera_Button_Geo
-  - first:
-      43: 4300004
-    second: Keyboard_Button_Geo
-  - first:
-      43: 4300006
-    second: Settings_Button_Geo
-  - first:
-      43: 4300008
-    second: Move_Button_Geo
-  - first:
-      43: 4300010
-    second: Home_Button_Geo
-  - first:
-      43: 4300012
-    second: App_Button_Geo
-  - first:
-      43: 4300014
-    second: Dot_Grid_Geo
-  - first:
-      43: 4300016
-    second: Bumper_Button
-  - first:
-      43: 4300018
-    second: Home_Button
-  - first:
-      43: 4300020
-    second: Trigger
-  - first:
-      43: 4300022
-    second: Leaper_Geo
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Button_MAT
-    second: {fileID: 2100000, guid: 1f4e9723203231b419dfd26522ef4d83, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Dot_Grid_Mat
-    second: {fileID: 2100000, guid: 13eafd56208ff3b43a7b9df3fb279794, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MobileDevice_Button_MAT
-    second: {fileID: 2100000, guid: e37bbdaf5fb1fee4aac5a619d6e53a90, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MobileDevice_Dot_Grid_Mat
-    second: {fileID: 2100000, guid: 13eafd56208ff3b43a7b9df3fb279794, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MobileDevice_Mat
-    second: {fileID: 2100000, guid: 39518081c3690494380a8dece4faef00, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MobileDevice_leaper_MAT
-    second: {fileID: 2100000, guid: 4931dee9c1bb8324ca1f58a6649eb10c, type: 2}
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -265,13 +31,14 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -301,7 +68,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 3

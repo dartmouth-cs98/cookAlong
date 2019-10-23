@@ -1,41 +1,9 @@
 fileFormatVersion: 2
-guid: 122cad41a02cd89478013d35c9fdbf7b
+guid: 7928223b904674f52a9f80c7d337818c
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Body_Geo
-    100004: Periscope_Geo
-    100006: Tail_Rudder_Geo
-    100008: Propeller_Geo
-    400000: //RootNode
-    400002: Body_Geo
-    400004: Periscope_Geo
-    400006: Tail_Rudder_Geo
-    400008: Propeller_Geo
-    2100000: lambert1
-    2100002: DeepSea_Submarine_MAT
-    2300000: //RootNode
-    2300002: Body_Geo
-    2300004: Periscope_Geo
-    2300006: Tail_Rudder_Geo
-    2300008: Propeller_Geo
-    3300000: //RootNode
-    3300002: Body_Geo
-    3300004: Periscope_Geo
-    3300006: Tail_Rudder_Geo
-    3300008: Propeller_Geo
-    4300000: DeepSea_Sub_Geo
-    4300002: Body_Geo
-    4300004: Periscope_Geo
-    4300006: Tail_Rudder_Geo
-    4300008: Propeller_Geo
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: DeepSea_Submarine_MAT
-    second: {fileID: 2100000, guid: 656d8d0d3bf818748b88c6927709e7fe, type: 2}
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -63,12 +31,14 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -76,10 +46,13 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
@@ -91,10 +64,14 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -104,8 +81,8 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
