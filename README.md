@@ -7,6 +7,8 @@ CookAlong makes learning to cook an accessible experience with AR technology tha
 ## Architecture
 
 TODO:  overall descriptions of code organization and tools and libraries used
+We will be using th MagicLeap headset with enviroment in conjuction with Unity for our front end.
+In the backend we have a Java Springboot rest API with a AWS database storage
 
 ## Setup
 
