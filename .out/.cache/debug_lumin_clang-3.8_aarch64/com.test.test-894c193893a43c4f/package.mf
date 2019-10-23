@@ -1,0 +1,297 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "44ab9cbc6f59e164d5ae31e7e6f009f4066932a7",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3075112,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "ad9467ebb4aaf9a6982de334950ca8de4bac11d0",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 46869536,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/privatekey/cookalongzdj.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "e4a97786b42e810b2c6f3ea1df65c4605952c127",
+   "xfrm_path": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.test-894c193893a43c4f/libil2cpp.so-40e44b06cdeb1f50",
+   "xfrm_size": 46870294
+  },
+  {
+   "compression": 8,
+   "hash": "fa2b8ff146caf64688e7aa835af0034ca81b5505",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 282448,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/privatekey/cookalongzdj.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4f36522d174ee5e639d9bea7d734094fad6d65cb",
+   "xfrm_path": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.test-894c193893a43c4f/AudioPluginMSASpatializer.so-62847e3d6109b787",
+   "xfrm_size": 283206
+  },
+  {
+   "compression": 8,
+   "hash": "134eac416c583401014c558ed5af6c926fdc258b",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68096,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "bada121f1f4ec16ace56affb65164d688458799c",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 329216,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "b8ce049d2e85f27cc7346d7551d1853b20e78461",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 22016,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "a71acc50817a0929bccc93cbe7619d57d25d1b17",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 3077192,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/privatekey/cookalongzdj.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "e8220471545f2ff5d775d06079854067a33d24ff",
+   "xfrm_path": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.test-894c193893a43c4f/UnityMagicLeap.so-62847e3d6109b787",
+   "xfrm_size": 3077950
+  },
+  {
+   "compression": 8,
+   "hash": "fbfa4a6aa20b14e0f60550676e5d34bebb99d46d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/privatekey/cookalongzdj.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "875651161f031414e4bba7fb58f1ff154304f1ae",
+   "xfrm_path": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.test-894c193893a43c4f/libml_camera_plugin.so-62847e3d6109b787",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "88ac1047e0ac5686d703471c3115f719ca66a4e8",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/privatekey/cookalongzdj.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "d454a05d263c854c4a3438b0f83cfbdfedb0baa1",
+   "xfrm_path": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.test-894c193893a43c4f/libml_mediaplayer_plugin.so-62847e3d6109b787",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "fa10859a933989c5961257c02d9f4fcf042044f1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3689324,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "88bb7afbcf63275d0962b4c7c7cede30a1b0d014",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 770468,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "778891100a8030ad6096db64784c6e5d67c28378",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 417,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "f226dfc0f1097b18c77eb2198b6257be5b02a613",
+   "pkgpath": "Data/boot.config",
+   "size": 123,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "71fe51b947abcaaaa37610df0e447f8716ca0318",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 60080,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "5f0f344b0056e04551af1739b112f25a49db399f",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 84260,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "80e73fe7b45097359a57ef40d60ac44328d65d3b",
+   "pkgpath": "Data/level0",
+   "size": 6012,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "b767a0a91d0f99314ecef32050d08637142ae227",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "88da5ab0ae3a889a9b56717c94fcd2797c555770",
+   "pkgpath": "Data/resources.assets",
+   "size": 551248,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1d5e5447a0f0b085b695376c9fdb7738e07e4f23",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "72df8187e8b57e64fb93926431a0053987da4917",
+   "pkgpath": "Data/resources.resource",
+   "size": 5875136,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/resources.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "16673c2ee6303489ce0b99aacbae966000d76a1d",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 210816,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "61d3d50aa3472ee134e4c14f0f43bcbdc0215e33",
+   "pkgpath": "bin/Player.elf",
+   "size": 20710840,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/privatekey/cookalongzdj.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a29400227910eddee98fec79a5cf94536cfa6bb6",
+   "xfrm_path": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.test-894c193893a43c4f/Player.elf-c6c712a155b254fd",
+   "xfrm_size": 20711598
+  },
+  {
+   "compression": 8,
+   "hash": "4cf99c55ad5b92e700681ac73dbd506761e7d564",
+   "pkgpath": "manifest.xml",
+   "size": 1879,
+   "src": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "134a8b6ec9bf99568cf837290b78632c200f6f04",
+     "developer_id": "7e0f3411-f107-4886-a1b9-0beebe31e7f3"
+    }
+   },
+   "xfrm_hash": "6efd311a58e39979ee02625311783c92d9615d95",
+   "xfrm_path": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.test-894c193893a43c4f/manifest.xml-c6c712a155b254fd",
+   "xfrm_size": 1892
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/zacharyjohnson/MagicLeap/mlsdk/v0.22.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/privatekey/cookalongzdj.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "f6d403df9935c40630163ff8b13a07babfa3761f",
+   "xfrm_path": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.test-894c193893a43c4f/libc++_shared.so-9095f00b0a23e601",
+   "xfrm_size": 977590
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/privatekey/cookalongzdj.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "/Users/zacharyjohnson/Downloads/Coding Things/CS98/cookAlong/Unity-Project-Template-2019.2.3f1/privatekey/cookalongzdj.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
