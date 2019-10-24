@@ -1,5 +1,9 @@
 # CookAlong
 
+Hello. We have tried a multitude of ways to get our MagicLeap program working for this scaffolding deadline, yet have been unable to do so. Our first issue came from the github plugin we were trying to use, which resulted in us being unable to build and run the project. Next we tried to simply build the project locally, without any git integration whatsoever, and ran into an issue with Unity and MagicLeap that has not been resolved by the MagicLeap team yet according to their github issues. We talked to Tim about this and will be getting in touch with MagicLeap directly to try to sort out these issues, but in the meantime we do not have much else to show at this point of the project timeline.
+
+We did manage to get our backend up and running though. [Link](https://github.com/dartmouth-cs98/cookalong-backend)
+
 TODO: super short project description, some sample screenshots or mockups that you keep up-to-date.
 
 CookAlong makes learning to cook an accessible experience with AR technology that streamlines the cooking experience, provide tutorials, explaination of cooking techniques, and a variety of recipes.
@@ -7,7 +11,7 @@ CookAlong makes learning to cook an accessible experience with AR technology tha
 ## Architecture
 
 TODO:  overall descriptions of code organization and tools and libraries used
-We will be using th MagicLeap headset with enviroment in conjuction with Unity for our front end.
+We will be using th MagicLeap headset with enviroment in conjuction with Unity in C# for our front end.
 In the backend we have a Java Springboot rest API with a AWS database storage
 
 ## Setup
@@ -19,8 +23,11 @@ TODO: how to get the project dev environment up and running, npm install etc, al
 TODO: how to deploy the project
 
 ## Authors
-
-TODO: list of authors
+Danielle Fang
+Zack Johnson
+Anders Limstrom
+Erika Ogino 
+Brian Tomasco 
 
 ## Acknowledgments
 
